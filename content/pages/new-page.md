@@ -8,7 +8,8 @@ seo:
   author_twitter_handle: null
   open_graph_type: null
   no_index: false
-content_blocks: 
-  - _bookshop_name: dummy/dummy
-    title: dummy
+content_blocks:
+  title: demo
+  title_suffix: demo
+  description: demodemodemodemodemo
 ---
